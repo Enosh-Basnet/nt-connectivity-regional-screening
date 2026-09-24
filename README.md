@@ -1,1 +1,0 @@
-# nt-connectivity-regional-screening
