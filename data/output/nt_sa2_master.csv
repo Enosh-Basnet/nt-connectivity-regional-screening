@@ -1,0 +1,69 @@
+sa2_name,sa2_code,mobile_premises_pct,mobile_area_pct,nbn_fixed_premises_pct,nbn_satellite_premises_pct,abs_sa2_name,population_2025,area_km2,population_density_2025
+Darwin Airport,701011001,100,100,100,0,Darwin Airport,20,14.3,1.4
+Darwin City,701011002,100,100,100,0,Darwin City,8597,3.2,2709.3
+East Point,701011003,0,100,0,0,East Point,0,2.4,0
+Fannie Bay - The Gardens,701011004,100,100,100,0,Fannie Bay - The Gardens,4037,3.9,1030.8
+Larrakeyah,701011005,100,100,100,0,Larrakeyah,4731,1.9,2432.1
+Ludmilla - The Narrows,701011006,100,100,100,0,Ludmilla - The Narrows,2766,5.4,517
+Parap,701011007,100,100,82,0,Parap,3175,1.1,2880.6
+Stuart Park,701011008,100,100,100,0,Stuart Park,4674,1.7,2827.4
+Woolner - Bayview - Winnellie,701011009,100,100,100,0,Woolner - Bayview - Winnellie,3021,6.8,444.7
+Alawa,701021010,100,100,100,0,Alawa,2267,1.2,1828.4
+Anula,701021011,100,100,100,0,Anula,2583,1.3,1960.1
+Berrimah,701021012,100,100,96,4,Berrimah,2871,30.3,94.9
+Brinkin - Nakara,701021013,100,100,100,0,Brinkin - Nakara,3522,2.7,1311.2
+Buffalo Creek,701021014,0,100,0,0,Buffalo Creek,0,23.9,0
+Charles Darwin,701021015,0,100,0,0,Charles Darwin,3,17.5,0.2
+Coconut Grove,701021016,100,100,100,0,Coconut Grove,3100,1.4,2176.7
+East Arm,701021017,100,100,100,0,East Arm,23,28,0.8
+Jingili,701021018,100,100,100,0,Jingili,1990,1.3,1511.8
+Karama,701021019,100,100,100,0,Karama,5050,2.1,2444.9
+Leanyer,701021020,100,100,100,0,Leanyer,5119,2.5,2046.2
+Lyons (NT),701021021,100,100,66,0,Lyons (NT),7442,7,1057
+Malak - Marrara,701021022,100,100,100,0,Malak - Marrara,4729,4.8,978.8
+Millner,701021023,100,100,100,0,Millner,2718,1.5,1851.9
+Moil,701021024,100,100,100,0,Moil,2164,1,2076
+Nightcliff,701021025,100,100,100,0,Nightcliff,4343,1.5,2992.7
+Rapid Creek,701021026,100,100,100,0,Rapid Creek,3564,1.9,1858.6
+Tiwi,701021027,100,100,100,0,Tiwi,2641,3.1,846.8
+Wagaman,701021028,100,100,100,0,Wagaman,2118,0.8,2528
+Wanguri,701021029,100,100,100,0,Wanguri,1940,0.9,2190.9
+Wulagi,701021030,100,100,100,0,Wulagi,2738,1.3,2168
+Howard Springs,701031031,100,100,96,4,Howard Springs,6308,118,53.4
+Humpty Doo,701031032,100,100,93,7,Humpty Doo,9513,157.4,60.4
+Koolpinyah,701031033,0,78,0,0,Koolpinyah,14,1199.6,0
+Virginia,701031034,100,100,97,3,Virginia,3759,54.7,68.7
+Weddell,701031035,99,98,83,17,Weddell,4738,1408.7,3.4
+Bakewell,701041036,100,100,100,0,Bakewell,3417,1.3,2591.6
+Driver,701041037,100,100,100,0,Driver,2989,1.7,1742.1
+Durack - Marlow Lagoon,701041038,100,100,99,1,Durack - Marlow Lagoon,5073,11.7,432.9
+Gray,701041039,100,100,100,0,Gray,3479,1.5,2314.9
+Moulden,701041040,100,100,100,0,Moulden,3268,1.8,1867
+Palmerston - North,701041041,100,100,100,0,Palmerston - North,4949,4.8,1038.6
+Palmerston - South,701041042,100,100,85,2,Palmerston - South,9070,25,363
+Rosebery - Bellamack,701041043,100,100,66,0,Rosebery - Bellamack,7223,3.2,2274.9
+Woodroffe,701041044,100,100,100,0,Woodroffe,3538,1.6,2214.4
+Charles,702011045,100,100,98,2,Charles,4882,16.7,292.5
+East Side,702011046,100,100,96,4,East Side,6544,25.8,254
+Flynn (NT),702011047,100,100,98,2,Flynn (NT),5355,17.1,313.8
+Larapinta,702011048,100,100,100,0,Larapinta,5878,58.6,100.4
+Mount Johns,702011049,100,100,99,1,Mount Johns,5069,19,267.5
+Petermann - Simpson,702011050,92,6,0,100,Petermann - Simpson,2337,175248.1,0
+Ross,702011051,100,100,38,62,Ross,3147,190.7,16.5
+Sandover - Plenty,702011052,70,10,0,100,Sandover - Plenty,4728,129517.2,0
+Tanami,702011053,68,6,0,100,Tanami,3399,192662.3,0
+Yuendumu - Anmatjere,702011054,87,11,0,100,Yuendumu - Anmatjere,2095,71845.1,0
+Barkly,702021055,62,5,0,100,Barkly,2596,303169.1,0
+Tennant Creek,702021056,100,100,99,1,Tennant Creek,3587,42.1,85.3
+Alligator,702031057,97,56,32,68,Alligator,4892,33100.7,0.1
+Daly,702031058,77,15,0,100,Daly,2221,34828.1,0.1
+Thamarrurr,702031059,99,32,0,100,Thamarrurr,2459,3373.7,0.7
+Tiwi Islands,702031060,94,17,0,100,Tiwi Islands,2767,7483.2,0.4
+West Arnhem,702031061,73,9,0,100,West Arnhem,6377,33509.2,0.2
+Anindilyakwa,702041062,98,34,0,100,Anindilyakwa,2977,2609,1.1
+East Arnhem,702041063,85,15,24,76,East Arnhem,8130,30989.9,0.3
+Nhulunbuy,702041064,100,100,100,0,Nhulunbuy,3806,7.6,497.7
+Elsey,702051065,74,12,0,100,Elsey,2695,92949.7,0
+Gulf,702051066,77,4,0,100,Gulf,4915,92278.2,0.1
+Katherine,702051067,99,41,82,18,Katherine,11269,7416.9,1.5
+Victoria River,702051068,57,8,0,100,Victoria River,3147,133608.8,0
