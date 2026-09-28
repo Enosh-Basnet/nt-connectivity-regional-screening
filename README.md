@@ -94,6 +94,24 @@ The supplied walkthrough sections **1–9** create `nt_sa2_master.csv`, `communi
 
 The trial regional CSV has one row per candidate SA2, including the gap components, three scores, mapped-community counts, and direct 2022 name-match counts. The community CSV repeats SA2 values alongside community identifiers for **context**; its regional percentages and regional population are not community measurements.
 
+## Interactive dashboard (Streamlit prototype)
+
+`app.py` is a small Streamlit dashboard built on the notebook outputs in `data/output/`. It lets a reader:
+
+1. See the 16 candidate SA2s ranked by the trial connectivity gap score, with each bar split into its mobile and NBN fixed components.
+2. Select an SA2 to view its reported indicators, score breakdown and mapped BushTel records (with an offline-safe location plot).
+3. Adjust the mobile/NBN fixed weighting with a slider and watch the ranking, rank changes against 60/40 and a full weight-range sensitivity chart update.
+4. Export the results for limited-connectivity use: an offline pack (.zip, about 10 KB) containing a script-free HTML report, the SA2 ranking CSV, a BushTel records CSV and a README with the interpretation caveats.
+
+Run it from the repository root after running `data/script.ipynb` once:
+
+```bash
+python3 -m pip install -r requirements.txt
+streamlit run app.py
+```
+
+The dashboard recalculates scores from `nt_sa2_master.csv` and `community_regional_context.csv`; at 60/40, 50/50 and 70/30 its scores and ranks match `trial_sa2_regional_screening.csv`. The same interpretation limits apply: scores are regional screening prompts, not community-level investment decisions.
+
 ## Interpretation and limitations
 
 - **Geography:** SA2s can span large areas and include places with very different local conditions. A community's containing SA2 score is not that community's score. Katherine is also among the 16 selected SA2s because of mapped communities, demonstrating why this set should not be called a formal remoteness classification.
